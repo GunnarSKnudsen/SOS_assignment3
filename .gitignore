@@ -2,3 +2,4 @@ __pycache__
 .ipynb_checkpoints
 SOMToolbox/
 data/processed_data.pkl
+data/processed_data.pkl

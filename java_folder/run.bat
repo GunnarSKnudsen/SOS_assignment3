@@ -1,0 +1,1 @@
+.\\somtoolbox_src\\somtoolbox.bat GrowingSOM .\\experiment_03\\10x10\\som.prop

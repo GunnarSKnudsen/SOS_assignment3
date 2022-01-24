@@ -1,0 +1,13 @@
+workingDirectory=C:\\Users\\Magnus\\Documents\\GitHub\\SOS_assignment3\\java_folder\\experiment_03\\90x90
+namePrefix=exp03_90x90
+vectorFileName=input.vec
+sparseData=no
+isNormalized=yes
+templateFileName=template.tv
+
+randomSeed=17
+xSize=90
+ySize=90
+learnRate=1.4
+#sigma=12.5
+numIterations=50000

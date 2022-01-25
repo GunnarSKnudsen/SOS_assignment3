@@ -1,0 +1,16 @@
+Jan 26, 2022 12:09:47 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.multichannelPlayback.LineListModel <init>
+FINE: Skipping mixer #0 (null):Line unsupported: interface SourceDataLine supporting format PCM_SIGNED 44100.0 Hz, 16 bit, stereo, 4 bytes/frame, little-endian
+Jan 26, 2022 12:09:47 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.multichannelPlayback.LineListModel <init>
+FINE: Skipping mixer #1 (null):Line unsupported: interface SourceDataLine supporting format PCM_SIGNED 44100.0 Hz, 16 bit, stereo, 4 bytes/frame, little-endian
+Jan 26, 2022 12:09:47 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.multichannelPlayback.LineListModel <init>
+FINE: Skipping mixer #2 (null):Line unsupported: interface SourceDataLine supporting format PCM_SIGNED 44100.0 Hz, 16 bit, stereo, 4 bytes/frame, little-endian
+Jan 26, 2022 12:09:47 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.multichannelPlayback.LineListModel <init>
+FINE: Skipping mixer #3 (null):Line unsupported: interface SourceDataLine supporting format PCM_SIGNED 44100.0 Hz, 16 bit, stereo, 4 bytes/frame, little-endian
+Jan 26, 2022 12:09:48 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.multichannelPlayback.LineListModel <init>
+FINE: Skipping mixer #18 (NVidia [plughw:1,12]):Line unsupported: interface SourceDataLine supporting format PCM_SIGNED 44100.0 Hz, 16 bit, stereo, 4 bytes/frame, little-endian
+Jan 26, 2022 12:09:48 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.multichannelPlayback.LineListModel <init>
+FINE: Skipping mixer #19 (NVidia [plughw:1,12]):Line unsupported: interface SourceDataLine supporting format PCM_SIGNED 44100.0 Hz, 16 bit, stereo, 4 bytes/frame, little-endian
+Jan 26, 2022 12:09:48 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.MultichannelPlaybackPanel setVisible
+FINE: Using directory for decoded files: ./
+Jan 26, 2022 12:09:48 AM at.tuwien.ifs.somtoolbox.apps.viewer.controls.MultichannelPlaybackPanel setVisible
+FINE: Decoding probability: 0.5

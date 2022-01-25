@@ -1,4 +1,4 @@
-workingDirectory=~/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_06/e03_nonsampled_ZeroMeanUnitVariance
+workingDirectory=/home/waxfactor2nd/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_06/e03_nonsampled_ZeroMeanUnitVariance
 namePrefix=e03_nonsampled_ZeroMeanUnitVariance
 vectorFileName=input.vec
 sparseData=no

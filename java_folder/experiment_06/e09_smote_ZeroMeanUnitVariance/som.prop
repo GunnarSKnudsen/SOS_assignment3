@@ -1,4 +1,4 @@
-workingDirectory=~/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_06/e09_smote_ZeroMeanUnitVariance
+workingDirectory=/home/waxfactor2nd/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_06/e09_smote_ZeroMeanUnitVariance
 namePrefix=e09_smote_ZeroMeanUnitVariance
 vectorFileName=input.vec
 sparseData=no

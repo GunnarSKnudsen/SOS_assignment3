@@ -1,4 +1,4 @@
-workingDirectory=~/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_06/e07_smote_unscaled
+workingDirectory=/home/waxfactor2nd/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_06/e07_smote_unscaled
 namePrefix=e07_smote_unscaled
 vectorFileName=input.vec
 sparseData=no

@@ -2,7 +2,7 @@ $TYPE class_information
 $NUM_CLASSES 4
 $CLASS_NAMES Move_Forward Slight_Right_Turn Sharp_Right_Turn Slight_Left_turn
 $XDIM 2
-$YDIM 8820
+$YDIM 5456
 1 3
 2 3
 3 3

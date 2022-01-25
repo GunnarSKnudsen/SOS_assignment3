@@ -1,0 +1,16 @@
+workingDirectory=~/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_06/PREFIXPREFIXPREFIX
+namePrefix=PREFIXPREFIXPREFIX
+vectorFileName=input.vec
+sparseData=no
+isNormalized=yes
+templateFileName=template.tv
+
+randomSeed=17
+xSize=30
+ySize=30
+learnRate=1.4
+sigma=12.5
+numIterations=50000
+
+
+

@@ -1,5 +1,5 @@
 workingDirectory=C:\\Users\\Magnus\\Documents\\GitHub\\SOS_assignment3\\java_folder\\experiment_03\\10x10
-namePrefix=exp03_10x10
+namePrefix=exp03_10
 vectorFileName=input.vec
 sparseData=no
 isNormalized=yes
@@ -9,5 +9,5 @@ randomSeed=17
 xSize=10
 ySize=10
 learnRate=1.4
-#sigma=12.5
+sigma=15
 numIterations=50000

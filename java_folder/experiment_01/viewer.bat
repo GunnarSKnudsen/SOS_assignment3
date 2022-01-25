@@ -1,0 +1,1 @@
+C:\\Users\\mimoser\\Desktop\\dataScience\\SOS_assignment3\\java_folder\\somtoolbox_src\\somtoolbox.bat SOMViewer -u .\\exp01.unit.gz -w .\\exp01.wgt.gz --dw .\\exp01.dwm.gz -c .\\class_info.cls

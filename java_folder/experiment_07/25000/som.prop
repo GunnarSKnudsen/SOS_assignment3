@@ -1,0 +1,13 @@
+workingDirectory=C:\\Users\\mimoser\\Desktop\\dataScience\\SOS_assignment3\\java_folder\\experiment_07\\25000
+namePrefix=exp07
+vectorFileName=input.vec
+sparseData=no
+isNormalized=yes
+templateFileName=template.tv
+
+randomSeed=42
+xSize=30
+ySize=30
+learnRate=0.7
+sigma=7.5
+numIterations=25000

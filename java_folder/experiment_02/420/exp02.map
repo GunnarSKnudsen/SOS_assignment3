@@ -1,0 +1,37 @@
+$TYPE som
+$GRID_TOPOLOGY planar
+$GRID_LAYOUT rectangular
+$XDIM 30
+$YDIM 30
+$ZDIM 1
+$VEC_DIM 24
+$STORAGE_DATE 25.01.22 20:17
+$TRAINING_TIME 
+$LEARNRATE_TYPE exponential
+$LEARNRATE_INIT 0.7
+$NEIGHBORHOOD_TYPE exponential
+$NEIGHBORHOOD_INIT 7.5
+$RAND_INIT 420
+$ITERATIONS_TOTAL 50000
+$NR_TRAINVEC_TOTAL 8820
+$ADAPTIVE_COORDINATES_THRESHOLD 
+$VEC_NORMALIZED false
+$QUANTERROR_MAP <error receiving value: Quality measure with name mqe not found.>
+$QUANTERROR_VEC <error receiving value: Quality measure with name mqe not found.>
+$URL_TRAINING_VEC C:\Users\mimoser\Desktop\dataScience\SOS_assignment3\java_folder\experiment_02\420\input.vec
+$URL_TRAINING_VEC_DESCR 
+$URL_WEIGHT_VEC C:\Users\mimoser\Desktop\dataScience\SOS_assignment3\java_folder\experiment_02\420\.\exp02.wgt
+$URL_QUANTERR_MAP 
+$URL_MAPPED_INPUT_VEC 
+$URL_MAPPED_INPUT_VEC_DESCR 
+$URL_UNIT_DESCR C:\Users\mimoser\Desktop\dataScience\SOS_assignment3\java_folder\experiment_02\420\.\exp02.unit
+$URL_TEMPLATE_VECTOR C:\Users\mimoser\Desktop\dataScience\SOS_assignment3\java_folder\experiment_02\420\template.tv
+$URL_DATA_WINNER_MAPPING C:\Users\mimoser\Desktop\dataScience\SOS_assignment3\java_folder\experiment_02\420\.\exp02.dwm
+$URL_CLASS_INFO 
+$URL_LABELS 
+$METRIC at.tuwien.ifs.somtoolbox.layers.metrics.L2Metric
+$LAYER_REVISION $Revision: 4300 $
+$DESCRIPTION 
+$AVAILABLE_VIS 
+$DATA_TYPE unknown
+$DATA_DIM 

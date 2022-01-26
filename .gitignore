@@ -3,3 +3,13 @@ __pycache__
 SOMToolbox/
 data/processed_data.pkl
 data/processed_data.pkl
+*.png
+*.png
+*.png
+*.map
+*.gz
+*.vec
+*.cls
+*.tv
+*.gz
+*.map

@@ -13,3 +13,13 @@ data/processed_data.pkl
 *.tv
 *.gz
 *.map
+*.log
+*.log
+*.txt
+*.lck
+*.gz
+*.map
+*.gz
+*.gz
+*.sh
+*.svg

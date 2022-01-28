@@ -9,5 +9,5 @@ randomSeed=17
 xSize=90
 ySize=90
 learnRate=1.4
-sigma=15
+sigma=45
 numIterations=50000

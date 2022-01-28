@@ -1,5 +1,5 @@
-workingDirectory=/home/waxfactor2nd/tuWien/SOS/assignment3/SOS_assignment3/java_folder/experiment_08
-namePrefix=e08
+workingDirectory=C:\\Users\\Magnus\\Documents\\GitHub\\SOS_assignment3\\java_folder\\experiment_08
+namePrefix=exp08
 vectorFileName=input.vec
 sparseData=no
 isNormalized=yes
@@ -11,6 +11,3 @@ ySize=40
 learnRate=2
 sigma=15
 numIterations=50000
-
-
-

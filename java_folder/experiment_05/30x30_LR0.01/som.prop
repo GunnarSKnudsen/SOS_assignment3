@@ -1,0 +1,13 @@
+workingDirectory=C:\\Users\\Magnus\\Documents\\GitHub\\SOS_assignment3\\java_folder\\experiment_05\\30x30_LR0.01
+namePrefix=exp05
+vectorFileName=input.vec
+sparseData=no
+isNormalized=yes
+templateFileName=template.tv
+
+randomSeed=17
+xSize=30
+ySize=30
+learnRate=0.01
+sigma=15
+numIterations=50000

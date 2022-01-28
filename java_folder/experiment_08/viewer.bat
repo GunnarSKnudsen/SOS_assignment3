@@ -1,0 +1,1 @@
+C:\\Users\\Magnus\\Documents\\GitHub\\SOS_assignment3\\java_folder\\somtoolbox_src\\somtoolbox.bat SOMViewer -u .\\exp08.unit.gz -w .\\exp08.wgt.gz --dw .\\exp08.dwm.gz -c .\\class_info.cls

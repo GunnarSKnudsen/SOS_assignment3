@@ -1,1 +1,0 @@
-C:\\Users\\Magnus\\Documents\\GitHub\\SOS_assignment3\\java_folder\\somtoolbox_src\\somtoolbox.bat GrowingSOM .\\som.prop
